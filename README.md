@@ -37,7 +37,7 @@
 		 - [Notepad++](https://notepad-plus-plus.org/downloads/ "Notepad++")
 
 ## Download
-- Download .jar file form [Latest Releases](https://github.com/urvesh254/BST-Visualization/releases "Download")
+- Download .jar file form [Latest Releases](https://github.com/Welding-Torch/Binary-Search-Tree-Visualiser/blob/main/BSTVisualization.java "Download")
 - **Note**: For run this .jar file you want to complete [Prerequisite](#prerequisite) firsts.
 
 ## Execution
